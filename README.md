@@ -1,4 +1,8 @@
 
+
+使用： 编辑deploy.sh中的参数，直接运行脚本即可
+
+
 # etcd browser
 
 ## Demo
